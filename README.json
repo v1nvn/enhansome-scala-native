@@ -117,10 +117,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-02-06T03:03:44Z",
+            "last_commit": "2026-02-08T01:58:39Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
-            "stars": 2682
+            "stars": 2684
           }
         },
         {
@@ -130,7 +130,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-02-07T00:20:48Z",
+            "last_commit": "2026-02-07T18:49:22Z",
             "owner": "scalacenter",
             "repo": "bloop",
             "stars": 938
@@ -240,7 +240,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-02-01T00:25:42Z",
+            "last_commit": "2026-02-08T00:28:50Z",
             "owner": "outr",
             "repo": "reactify",
             "stars": 90
@@ -500,7 +500,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2025-12-12T18:24:10Z",
+            "last_commit": "2026-02-08T01:54:13Z",
             "owner": "ekrich",
             "repo": "sblas",
             "stars": 35
@@ -819,7 +819,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-01-05T20:59:16Z",
+            "last_commit": "2026-02-08T01:57:06Z",
             "owner": "ekrich",
             "repo": "sconfig",
             "stars": 131
@@ -922,7 +922,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-02-07T00:57:39Z",
+            "last_commit": "2026-02-08T01:11:10Z",
             "owner": "softwaremill",
             "repo": "sttp",
             "stars": 1495
@@ -1083,7 +1083,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-01-30T04:51:24Z",
+            "last_commit": "2026-02-07T22:46:40Z",
             "owner": "bkirwi",
             "repo": "decline",
             "stars": 669
@@ -1221,10 +1221,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:25:24.849Z",
+    "last_updated": "2026-02-08T04:32:42.440Z",
     "original_repository": "tindzk/awesome-scala-native",
     "source_repository": "v1nvn/enhansome-scala-native",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Scala Native with stars"
   }
 }
